@@ -83,7 +83,8 @@
 //----------------------------------------------------------------------------------
 // Core C++ Input / Output and String Handling
 //----------------------------------------------------------------------------------
-#include <fstream>     // std::ifstream, std::ofstream — file I/O
+//#include <fstream>     // std::ifstream, std::ofstream — file I/O
+//Houston, we have a problem!
 #include <iomanip>     // std::setw, std::setprecision — formatted output
 #include <iostream>    // std::cout, std::cin — console I/O
 #include <sstream>     // std::stringstream — string formatting and parsing
